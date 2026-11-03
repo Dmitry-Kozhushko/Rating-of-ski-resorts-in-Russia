@@ -4,7 +4,8 @@
 Разработка воспроизводимого составного рейтинга 32 горнолыжных курортов РФ для приоритизации добавления в каталог сервиса Travel Designer. 
 Рейтинг оценивает потенциал курортов (0–100) на основе открытых данных, а не фактическую посещаемость.
 
-**[Перейти на интерактивный дашборд (Yandex DataLens)](https://datalens.yandex/y6qu8oi4yepqh?_share_link=public)**
+**[Перейти на интерактивный дашборд (Yandex DataLens)](https://datalens.yandex/y6qu8oi4yepqh?_share_link=public)**  
+
 ![Рейтинг](images/rating.png)
 ![Профиль курорта](images/profile.png)
 ![Сравнение курорта](images/comparison.png)
