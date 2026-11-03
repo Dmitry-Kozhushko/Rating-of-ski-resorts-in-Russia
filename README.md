@@ -36,5 +36,6 @@
    ```bash
    pip install -r requirements.txt
 3. Запустите скрипт пересборки витрины:
-    python src/prepare_model_data.py
-5. Откройте 01_data_analysis.ipynb в Jupyter Notebook для просмотра аналитики.
+   ```bash
+   python src/prepare_model_data.py
+5. Откройте `01_data_analysis.ipynb` в Jupyter Notebook для просмотра аналитики.
